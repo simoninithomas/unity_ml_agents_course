@@ -2,7 +2,7 @@
 
 The article is not published yet 🚧
 
-You can see the agent performing after 300,000 training timesteps [here]().
+You can see the agent performing after 300,000 training timesteps [here](https://youtu.be/BeVhuZNW1pM).
 
 ## How to
 
