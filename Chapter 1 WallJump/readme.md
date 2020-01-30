@@ -1,6 +1,6 @@
-# Chapter 1: WallJump
+# Chapter 1: An introduction to Unity ML-Agents with WallJump
 
-The article " An introduction to Unity ML-Agents" is published [here](https://towardsdatascience.com/an-introduction-to-unity-ml-agents-6238452fcf4c)
+The article "An introduction to Unity ML-Agents" is published [here](https://towardsdatascience.com/an-introduction-to-unity-ml-agents-6238452fcf4c)
 
 You can see the agent performing after 300,000 training timesteps [here](https://youtu.be/BeVhuZNW1pM).
 
