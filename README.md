@@ -1,4 +1,4 @@
-# Unity ML Agents Course
+# [Unity ML Agents Course](http://www.simoninithomas.com/unitymlagentscourse/)
 Learn to create agents in Unity ML using Deep Reinforcement Learning with Tensorflow.
 
 <img src="https://raw.githubusercontent.com/Unity-Technologies/ml-agents/master/docs/images/image-banner.png" alt="Unity"/>
