@@ -2,6 +2,8 @@
 
 The article is not published yet 🚧
 
+The article "Diving deeper into Unity-ML Agents" is published [here](https://towardsdatascience.com/diving-deeper-into-unity-ml-agents-e1667f869dc3)
+
 You can see the agent performing after 700,000 training timesteps [here](https://www.youtube.com/watch?v=Ab2fHTMGf50).
 
 ## How to
